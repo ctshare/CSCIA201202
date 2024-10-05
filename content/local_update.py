@@ -1,6 +1,6 @@
 from IPython.display import display, HTML
 display(HTML("""
-<button type="button" id="button_for_indexeddb">Clear JupyterLite local storage</button>
+<button type="button" id="button_for_indexeddb">Click This Button Before Typing Anything</button>
 <script>
 window.button_for_indexeddb.onclick = function(e) {
     window.indexedDB.open('JupyterLite Storage').onsuccess = function(e) {
