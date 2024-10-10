@@ -1,1 +1,1 @@
-## Only public in a specific time frame
+## Please follow the instructions on the pages.
